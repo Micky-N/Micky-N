@@ -7,7 +7,7 @@ Web Developer
 Passionate about web development and a Master's degree in Expert in IT in Computer Engineering, I specialise in fullstack development with technologies such as PHP Laravel, VueJS, NuxtJS and TailwindCSS.
 
 * 🌍  I'm based in France
-* 🖥️  See my portfolio at [My Portfolio](http://micky-dev.fr)
+* 🖥️  See my portfolio at [My Portfolio](http://mndinga.fr)
 * ✉️  You can contact me at [ndingamickael@gmail.com](mailto:ndingamickael@gmail.com)
 * 🧠  I'm learning AdonisJS, Livewire, InertiaJS
 
